@@ -1,3 +1,3 @@
-# Sorting Algorithm Visualzer in Python
+# Sorting Algorithm Visualizer in Python
 
 Made using pygame
